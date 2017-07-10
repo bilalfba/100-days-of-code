@@ -11,7 +11,7 @@
 
 **Today's Progress**: Worked on a real website to upload 1000+ product listings through a .csv file for bigCommerce. Didn't get time to do actual code. 
 
-**Link**[squaredubai.com](squaredubai.com)
+**Link**: [squaredubai.com](squaredubai.com)
 
 ### Day 2: 9th July 2017
 
