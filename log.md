@@ -60,4 +60,13 @@ function chunkArrayInGroups(arr, size) {
 chunkArrayInGroups(["a", "b", "c", "d"], 2);
 ```
 
+### Day 4: 12th July 2017
+
+**Today's Progress**: 
+- Implementing custom dashing dashboard
+- Implementing custom BBC News widget
+- Creating redis server instance and heroku app (didn't work :( )
+- Playing with the Bluemix Tone Analyzer 
+- Bigcommerce Website Dev / Researching Payment gateways 
+
 
