@@ -60,7 +60,7 @@ function chunkArrayInGroups(arr, size) {
 chunkArrayInGroups(["a", "b", "c", "d"], 2);
 ```
 
-### Day 4: 12th July 2017
+### Day 4: 11th July 2017
 
 **Today's Progress**: 
 - Implementing custom dashing dashboard (Ruby,HTML,CSS,JS)
@@ -69,4 +69,14 @@ chunkArrayInGroups(["a", "b", "c", "d"], 2);
 - Playing with the Bluemix Tone Analyzer 
 - Bigcommerce Website Dev / Researching Payment gateways 
 
+### Day 5: 12th July 2017
+
+**Today's Progress**: 
+- Getting the calendar working on dashing (Google Calendar API, HTML,CSS,CS)
+- Andrew Ng ML , Implementing Linear Regression in Octave/Matlab
+
+### Day 6: 12th July 2017
+
+**Today's Progress**: 
+- Creating a node-red app on bluemix using 4 services (Personality Insights, Tone Analyzer, STT,TTS) and deploying it to a website.
 
