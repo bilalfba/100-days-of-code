@@ -80,3 +80,9 @@ chunkArrayInGroups(["a", "b", "c", "d"], 2);
 **Today's Progress**: 
 - Creating a node-red app on bluemix using 4 services (Personality Insights, Tone Analyzer, STT,TTS) and deploying it to a website.
 
+
+### Day 7: 16th July 2017
+
+**Today's Progress**: 
+- Android Dev - Menu-item-groups
+- Adding weather widget to dashing.io 
