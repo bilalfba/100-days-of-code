@@ -75,7 +75,7 @@ chunkArrayInGroups(["a", "b", "c", "d"], 2);
 - Getting the calendar working on dashing (Google Calendar API, HTML,CSS,CS)
 - Andrew Ng ML , Implementing Linear Regression in Octave/Matlab
 
-### Day 6: 12th July 2017
+### Day 6: 13th July 2017
 
 **Today's Progress**: 
 - Creating a node-red app on bluemix using 4 services (Personality Insights, Tone Analyzer, STT,TTS) and deploying it to a website.
@@ -86,3 +86,43 @@ chunkArrayInGroups(["a", "b", "c", "d"], 2);
 **Today's Progress**: 
 - Android Dev - Menu-item-groups
 - Adding weather widget to dashing.io 
+
+###Day 8: 23rd July 2017 :(
+
+**Today's Progress**:
+Freecodecamp:
+- [Slasher Flick](https://www.freecodecamp.org/challenges/slasher-flick)
+- [Mutations](https://www.freecodecamp.org/challenges/mutations)
+
+***Code***
+```
+
+function mutation(arr) {
+  
+
+    var string1=arr[0].toLowerCase();
+    var string2=arr[1].toLowerCase();
+  
+    for(i=0; i<string2.length;i++){
+    if (string1.indexOf(string2[i])<0)
+      return false;
+    
+  }
+  return true;
+    
+  //return arr[0].toLower==arr[1].toLower;
+}
+
+mutation(["hello", "hey"]);
+
+```
+```
+
+function slasher(arr, howMany) {
+  // it doesn't always pay to be first
+
+  return arr.slice(howMany);
+}
+
+slasher([1, 2, 3], 2);
+```
