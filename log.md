@@ -46,7 +46,7 @@ function truncateString(str, num) {
 }
 ```
 - Chunky Monkey
-```
+```javascript
 
 function chunkArrayInGroups(arr, size) {
   // Break it up.
@@ -95,7 +95,7 @@ Freecodecamp:
 - [Mutations](https://www.freecodecamp.org/challenges/mutations)
 
 ***Code***
-```
+```javascript
 
 function mutation(arr) {
   
@@ -116,7 +116,7 @@ function mutation(arr) {
 mutation(["hello", "hey"]);
 
 ```
-```
+```javascript
 
 function slasher(arr, howMany) {
   // it doesn't always pay to be first
