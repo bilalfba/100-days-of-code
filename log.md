@@ -87,7 +87,7 @@ chunkArrayInGroups(["a", "b", "c", "d"], 2);
 - Android Dev - Menu-item-groups
 - Adding weather widget to dashing.io 
 
-###Day 8: 23rd July 2017 :(
+### Day 8: 23rd July 2017 :(
 
 **Today's Progress**:
 Freecodecamp:
@@ -126,7 +126,7 @@ function slasher(arr, howMany) {
 
 slasher([1, 2, 3], 2);
 ```
-###Day 9: 27 July 2017 :(
+### Day 9: 27 July 2017 :(
 
 **Today's Progress**:
 IBM Bluemix Node-RED Application:
