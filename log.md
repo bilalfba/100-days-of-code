@@ -126,3 +126,9 @@ function slasher(arr, howMany) {
 
 slasher([1, 2, 3], 2);
 ```
+###Day 9: 27 July 2017 :(
+
+**Today's Progress**:
+IBM Bluemix Node-RED Application:
+- Created a natural language classifier application that is trained on 2000+ CSV file to automatically generate categories for new inputs. 
+- Created a career path finder using Bluemix Services
