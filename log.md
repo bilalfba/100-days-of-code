@@ -139,3 +139,30 @@ IBM Bluemix Node-RED Application:
 IBM Bluemix Node-RED Application:
 - Created a natural language classifier application that is trained on 2000+ CSV file to automatically generate categories for new inputs. 
 - Andoid Dev No.105 Menus & Toggle
+
+### Day 11: 30 July 2017 
+
+**Today's Progress**:
+Siraj Raval - Predicting an animal's body size given it's Brain size with Linear Regression
+```
+import pandas as pd
+from sklearn import linear_model
+import matplotlib.pyplot as plt 
+
+datafram=pd.read_fwf('brain_body.txt')
+x_values=dataframe[['Brain']]
+y_valuess=dataframe[['Body']]
+
+body_reg=linear_model.LinearRegression()
+body_reg.fit(x_values,y_valuess)
+
+plt.scatter(x_values,y_valuess)
+plt.plot(x_values,body_reg.predict(x_values))
+plt.show()
+
+```
+
+### Day 12: 01 August 2017 
+
+**Today's Progress**:
+Andrew Ng Machine Learning W3 - Classification
