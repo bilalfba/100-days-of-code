@@ -166,3 +166,7 @@ plt.show()
 
 **Today's Progress**:
 Andrew Ng Machine Learning W3 - Classification
+
+### Day 13: 04 August 2017
+**Today's Progress**
+[Creating Google Home on a Raspberry Pi](https://github.com/bilalfba/google-home/)
