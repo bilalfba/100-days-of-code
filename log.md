@@ -170,3 +170,15 @@ Andrew Ng Machine Learning W3 - Classification
 ### Day 13: 04 August 2017
 **Today's Progress**
 [Creating Google Home on a Raspberry Pi](https://github.com/bilalfba/google-home/)
+
+### Day 14: 05 August 2017
+**Today's Progress**
+Public Demo + Custom Commands [Creating Google Home on a Raspberry Pi](https://github.com/bilalfba/google-home/)
+
+### Day 15: 06 August 2017
+**Today's Progress**
+Useless Box Machine
+
+### Day 16: 07 August 2017
+**Today's Progress**
+Freecodecamp - Where do I belong
